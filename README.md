@@ -12,6 +12,9 @@ Soy Desarrollador Web Full Stack, con un enfoque en crear experiencias web intui
 
 Disfruto mucho aprender cosas nuevas, incluso prefiero cada vez que comienzo un proyecto, que si o si tenga algo que nunca había usado!  
 
+## Estadisticas
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=carlosducros)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Contáctame
 - 📫 Puedes contactarme por [LinkedIn](https://www.linkedin.com/in/carlosducros/)
