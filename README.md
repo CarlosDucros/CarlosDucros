@@ -14,7 +14,7 @@ Disfruto mucho aprender cosas nuevas, incluso prefiero cada vez que comienzo un 
 
 ## Estadisticas
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=carlosducros)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=carlosducros)](https://github.com/anuraghazra/github-readme-stats&show_icons=true&theme=dracula)
 
 ## Contáctame
 - 📫 Puedes contactarme por [LinkedIn](https://www.linkedin.com/in/carlosducros/)
