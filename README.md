@@ -2,7 +2,6 @@
 
 Soy Desarrollador Web Full Stack, con un enfoque en crear experiencias web intuitivas y dinámicas. Aunque tengo una formación de Full Stack, realmente me apasiona el Front End! 
 
-- 🔭 Actualmente estoy trabajando en mi proyecto final!
 - 🌱 Estoy aprendiendo Astro y Flutter, me estan gustando mucho.
 
 ## Habilidades 
